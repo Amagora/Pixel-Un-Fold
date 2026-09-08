@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Pixel (Un)Fold</string>
+    <string name="app_version">v0.1.0</string>
+    <string name="wallpaper_service_name">Pixel (Un)Fold Dual Wallpaper</string>
+    <string name="wallpaper_service_description">Automatically displays different wallpapers when folded (cover screen) and unfolded (inner screen) with instant zero-lag switching.</string>
+
+    <string name="section_cover_screen">Cover Screen (Folded)</string>
+    <string name="desc_cover_screen">Displays when the phone is closed (tall narrow aspect ratio).</string>
+    <string name="section_inner_screen">Inner Screen (Unfolded)</string>
+    <string name="desc_inner_screen">Displays when the phone is open (wide square aspect ratio).</string>
+
+    <string name="btn_select_image">Choose Image</string>
+    <string name="btn_remove_image">Reset to Default</string>
+    <string name="btn_apply_wallpaper">Set as Active Wallpaper</string>
+    <string name="btn_refresh_preview">Refresh</string>
+
+    <string name="scale_mode_title">Scaling Mode</string>
+    <string name="scale_crop_short">Crop (Fill)</string>
+    <string name="scale_fit_short">Fit (Center)</string>
+    <string name="scale_center_crop">Center Crop (Fill Screen)</string>
+    <string name="scale_fit_center">Fit Center (Letterbox)</string>
+
+    <string name="status_custom_image">Custom Wallpaper Active</string>
+    <string name="status_default_image">Default System Wallpaper</string>
+
+    <string name="title_appearance_settings">Appearance &amp; Settings</string>
+    <string name="desc_appearance_settings">Customize theme mode and AMOLED true black</string>
+    <string name="setting_dark_theme">Dark Theme</string>
+    <string name="setting_dark_theme_desc">Switch between Light and Dark appearance</string>
+    <string name="setting_amoled_mode">AMOLED True Black</string>
+    <string name="setting_amoled_mode_desc">Pure #000000 background for OLED screens (active in Dark Theme)</string>
+    <string name="setting_disclosure_title">A.I. &amp; Privacy Disclosure</string>
+    <string name="setting_disclosure_desc">Review A.I. development, experimental status, and privacy terms</string>
+    <string name="settings_button_close">Done</string>
+
+    <string name="title_disclosure_dialog">Notice &amp; Disclosure</string>
+    <string name="disclosure_ai_title">A.I. Development Disclosure</string>
+    <string name="disclosure_ai_body">This application was developed with Artificial Intelligence assistance to explore dual-screen wallpaper automation.</string>
+    <string name="disclosure_experimental_title">Early &amp; Experimental Status</string>
+    <string name="disclosure_experimental_body">Pixel (Un)Fold is in early development and is purely experimental. It may be unstable, contain bugs, or cause crashes. Use at your own discretion.</string>
+    <string name="disclosure_privacy_title">100% On-Device Privacy</string>
+    <string name="disclosure_privacy_body">No personal, private, or usage data is collected, stored, or transmitted. The app operates completely on-device without internet access.</string>
+    <string name="disclosure_btn_accept">I Understand</string>
+
+    <string name="status_wallpaper_active">Active as System Wallpaper</string>
+    <string name="status_wallpaper_inactive">Not currently set as active wallpaper</string>
+    <string name="device_state_folded">Currently Folded (Cover Display)</string>
+    <string name="device_state_unfolded">Currently Unfolded (Inner Display)</string>
+    <string name="current_aspect_ratio">Current Aspect Ratio: %1$.2f (%2$dx%3$d)</string>
+
+    <string name="msg_wallpaper_updated">Wallpaper updated successfully!</string>
+    <string name="msg_error_loading_image">Failed to load selected image.</string>
+</resources>

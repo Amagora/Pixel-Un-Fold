@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- True AMOLED Theme Colors -->
+    <color name="amoled_black">#000000</color>
+    <color name="amoled_card_bg">#111215</color>
+    <color name="amoled_card_high">#1A1C20</color>
+    <color name="amoled_stroke">#252830</color>
+    <color name="amoled_outline">#A5A8B2</color>
+    <color name="amoled_accent">#A8C7FA</color>
+    <color name="amoled_on_accent">#062E6F</color>
+    <color name="amoled_accent_container">#1B335A</color>
+    <color name="amoled_on_accent_container">#D3E3FD</color>
+    <color name="amoled_secondary_container">#1A2E3D</color>
+    <color name="amoled_on_secondary_container">#C5E7FF</color>
+
+    <!-- Standard Dark Mode (Grey) Colors -->
+    <color name="grey_dark_bg">#15171B</color>
+    <color name="grey_dark_card_bg">#202227</color>
+    <color name="grey_dark_card_stroke">#32353E</color>
+
+    <!-- Light Theme Colors -->
+    <color name="light_bg">#F5F6F8</color>
+    <color name="light_card_bg">#FFFFFF</color>
+    <color name="light_card_stroke">#E1E3E8</color>
+    <color name="light_text_primary">#181A1F</color>
+    <color name="light_text_secondary">#555862</color>
+
+    <!-- High Contrast Typography -->
+    <color name="text_white_high_contrast">#FFFFFF</color>
+    <color name="text_sub_high_contrast">#C8CAD2</color>
+    <color name="text_accent_blue">#A8C7FA</color>
+    <color name="preview_border_dark">#363A45</color>
+    <color name="preview_border_light">#D0D3DC</color>
+    <color name="preview_placeholder_bg">#000000</color>
+
+    <!-- Status Accents -->
+    <color name="status_green_active">#81C995</color>
+    <color name="status_amber_inactive">#FDD663</color>
+
+    <!-- Launcher Icon and Backward Compatibility Colors -->
+    <color name="md_theme_dark_primaryContainer">#1E4589</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D3E3FD</color>
+</resources>

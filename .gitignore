@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.vscode
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.ipr
+*.iws
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local scratch capture folder
+/screenshots/
+
+# App build outputs (keep release/ folder tracked)
+/app/build/
+
