@@ -46,13 +46,14 @@
 
 ## 📦 Instant Downloads & Releases
 
-Get the latest build ready to install on your device:
+Get the latest build ready to install on your device or access the official [GitHub Release v0.1.0](https://github.com/Amagora/Pixel-Un-Fold/releases/tag/v0.1.0):
 
 | Release Package | File Size | Description | Quick Link |
 | :--- | :--- | :--- | :--- |
-| **Direct APK** | ~14.3 MB | Standalone signed APK for direct sideloading | [📥 Download `Pixel-UnFold-latest.apk`](release/Pixel-UnFold-latest.apk) |
+| **Android APK (`.apk`)** | ~14.3 MB | Standalone signed APK ready to install | [📥 Download `Pixel-UnFold-v0.1.0.apk`](https://github.com/Amagora/Pixel-Un-Fold/releases/download/v0.1.0/Pixel-UnFold-v0.1.0.apk) |
+| **Source Code (`.zip`)** | ~4.1 MB | Clean source code bundle (excludes binaries) | [📦 Download `Pixel-UnFold-v0.1.0-source.zip`](https://github.com/Amagora/Pixel-Un-Fold/releases/download/v0.1.0/Pixel-UnFold-v0.1.0-source.zip) |
 | **Release Bundle (ZIP)** | ~4.9 MB | Includes APK, 1-Click Windows GUI, & Sideload Guides | [📦 Download `Pixel-UnFold-v0.1.0-Pixel-Fold.zip`](release/Pixel-UnFold-v0.1.0-Pixel-Fold.zip) |
-| **Versioned Release** | ~14.3 MB | Tagged v0.1.0 release build | [🏷️ Download `Pixel-UnFold-v0.1.0.apk`](release/Pixel-UnFold-v0.1.0.apk) |
+| **GitHub Release Page** | — | Release notes, asset checksums, and git source archives | [🏷️ View Release `v0.1.0`](https://github.com/Amagora/Pixel-Un-Fold/releases/tag/v0.1.0) |
 
 👉 *Need help installing? See the complete [Installation & Setup Guide](INSTALL_GUIDE.md).*
 
