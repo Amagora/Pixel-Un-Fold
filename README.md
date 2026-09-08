@@ -14,19 +14,22 @@
 ## ⚠️ Important Disclosures & Transparency
 
 > [!IMPORTANT]
-> ### 🎨 Featured Artwork Attribution & Artist Credit
-> The wallpapers featured in our demonstration screenshots and interface previews are original works created by the acclaimed digital artist **[TamberElla](https://www.deviantart.com/tamberella)**:
-> - **Cover Wallpaper (Folded)**: [**"Heavenly - Arceus"**](https://www.deviantart.com/tamberella/art/Heavenly-Arceus-847345495) by [TamberElla](https://www.deviantart.com/tamberella)
-> - **Inner Wallpaper (Unfolded)**: [**"Titan Origin - Giratina"**](https://www.deviantart.com/tamberella/art/Titan-Origin-Giratina-847448607) by [TamberElla](https://www.deviantart.com/tamberella)
-> - **Artist Gallery & Profile**: [**https://www.deviantart.com/tamberella**](https://www.deviantart.com/tamberella)
+> ### 🎨 Artwork & Intellectual Property Credits
+> The sample wallpapers featured in the application showcase and demonstration screenshots are original works created by the digital artist **TamberElla**:
 >
-> #### Critical Statements Regarding Artwork Usage:
-> 1. **Personal Wallpaper Choice (Not an Endorsement)**: The artwork shown in our screenshots represents solely the developer's personal choice of device wallpapers currently loaded on their personal phone during testing. The artist does not endorse, sponsor, or have any official association with this app.
-> 2. **No Promotion or Advertising Use**: We are **not** using the artist's work to promote, market, or advertise Pixel (Un)Fold. The screenshots are strictly non-commercial technical demonstrations showing how the app handles portrait vs. square aspect ratio transitions.
-> 3. **Zero Financial Gain**: Pixel (Un)Fold is a 100% free, non-commercial open-source project. We do not sell anything, display no advertisements, charge no fees, and derive zero financial benefit.
-> 4. **Please Support the Artist!** We love TamberElla's breathtaking artwork and warmly encourage all users of this app to visit [TamberElla's DeviantArt page](https://www.deviantart.com/tamberella) to view, support, and explore their extraordinary portfolio!
-> 5. **Immediate Removal Commitment**: We hold the utmost respect for artists and their intellectual property. If the artist prefers for their work not to be visible in these demonstration screenshots, please contact us or open an issue, and we will gladly and immediately remove or replace the screenshots.
-> 6. **Zero Asset Bundling**: Pixel (Un)Fold does **NOT** bundle, package, sell, or redistribute any of the artist's digital art files in its APK, release packages, or repository. Users select their own personal images from their device photo gallery.
+> | Artwork Title | Device Role | Artist Link |
+> | :--- | :--- | :--- |
+> | **"Heavenly - Arceus"** | Cover Screen (Folded) Demonstration | [View on DeviantArt](https://www.deviantart.com/tamberella/art/Heavenly-Arceus-847345495) |
+> | **"Titan Origin - Giratina"** | Inner Screen (Unfolded) Demonstration | [View on DeviantArt](https://www.deviantart.com/tamberella/art/Titan-Origin-Giratina-847448607) |
+> | **Artist Portfolio** | Full Gallery & DeviantArt Profile | [Visit TamberElla on DeviantArt](https://www.deviantart.com/tamberella) |
+>
+> #### ⚖️ Legal & Usage Disclaimers
+> 1. **Zero Asset Bundling**: Pixel (Un)Fold is strictly a software utility. The application binary (`.apk`), source code, and release packages **do NOT include, bundle, package, sell, or redistribute** any of the artist's digital artwork files.
+> 2. **User-Provided Content**: Users select their own personal photos and images from their device's local gallery.
+> 3. **No Commercial or Advertising Use**: The artwork shown is purely the developer's personal wallpaper of choice on their physical test device. We do not use the artist's work for advertising, promotion, or profit.
+> 4. **Immediate Removal Upon Request**: If the artist requests that screenshots depicting their work be taken down, we will promptly and gladly remove or replace them.
+> 5. **Intellectual Property Rights**: All copyrights, titles, and intellectual property rights in the featured illustrations remain exclusively with the original artist, **[TamberElla](https://www.deviantart.com/tamberella)**. Character names and depictions are trademarks and copyrights of Nintendo, Creatures Inc., and GAME FREAK inc. Pixel (Un)Fold is an independent, non-commercial open-source project and is not affiliated with, authorized, or endorsed by Nintendo, Pokémon, or DeviantArt.
+> 6. **Support the Artist**: We admire TamberElla's extraordinary work and warmly encourage everyone using this app to visit [TamberElla's DeviantArt page](https://www.deviantart.com/tamberella) to view, support, and explore their portfolio!
 >
 > ---
 >
@@ -78,25 +81,6 @@ Pixel (Un)Fold dynamically transforms its UI layout based on device posture. Whe
 | *Native Android `WallpaperManager` preview with 0ms transition.* | *Material You dynamic theming and AMOLED True Black (`#000000`) switch.* | *Transparent disclosure confirming zero internet permissions and local storage.* | *Live hardware proof: automatically displaying the square inner wallpaper across the unfolded display.* |
 
 > 🎨 *Artwork Attribution: The demonstration wallpapers shown in the screenshots above are **["Heavenly - Arceus"](https://www.deviantart.com/tamberella/art/Heavenly-Arceus-847345495)** and **["Titan Origin - Giratina"](https://www.deviantart.com/tamberella/art/Titan-Origin-Giratina-847448607)** by artist [**TamberElla**](https://www.deviantart.com/tamberella). Used solely for non-commercial UI demonstration purposes.*
-
----
-
-## 🎨 Artwork & Intellectual Property Credits
-
-The sample wallpapers featured in the application showcase and demonstration screenshots are original works created by the digital artist **TamberElla**:
-
-| Artwork Title | Device Role | Artist Link |
-| :--- | :--- | :--- |
-| **"Heavenly - Arceus"** | Cover Screen (Folded) Demonstration | [View on DeviantArt](https://www.deviantart.com/tamberella/art/Heavenly-Arceus-847345495) |
-| **"Titan Origin - Giratina"** | Inner Screen (Unfolded) Demonstration | [View on DeviantArt](https://www.deviantart.com/tamberella/art/Titan-Origin-Giratina-847448607) |
-| **Artist Portfolio** | Full Gallery & DeviantArt Profile | [Visit TamberElla on DeviantArt](https://www.deviantart.com/tamberella) |
-
-### ⚖️ Legal & Usage Disclaimers
-1. **Zero Asset Bundling**: Pixel (Un)Fold is strictly a software utility. The application binary (`.apk`), source code, and release packages **do NOT include, bundle, package, sell, or redistribute** any of the artist's digital artwork files.
-2. **User-Provided Content**: Users select their own personal photos and images from their device's local gallery.
-3. **No Commercial or Advertising Use**: The artwork shown is purely the developer's personal wallpaper of choice on their physical test device. We do not use the artist's work for advertising, promotion, or profit.
-4. **Immediate Removal Upon Request**: If the artist requests that screenshots depicting their work be taken down, we will promptly and gladly remove or replace them.
-5. **Intellectual Property Rights**: All copyrights, titles, and intellectual property rights in the featured illustrations remain exclusively with the original artist, **[TamberElla](https://www.deviantart.com/tamberella)**. Character names and depictions are trademarks and copyrights of Nintendo, Creatures Inc., and GAME FREAK inc. Pixel (Un)Fold is an independent, non-commercial open-source project and is not affiliated with, authorized, or endorsed by Nintendo, Pokémon, or DeviantArt.
 
 ---
 
